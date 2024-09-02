@@ -1,14 +1,15 @@
-<!-- Banner Image at the Top -->
+<!-- Cropped Banner Image at the Top -->
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1JhJnFO0pavriKzh55mf2TxTtSkelunhA" alt="Coding Banner" style="width:100%; max-width:1600px;"/>
+  <img src="https://drive.google.com/uc?export=view&id=1QoFLrBiGhTXWA9xVUZhzQachnisj3smj" alt="Coding Banner" style="width:100%; max-width:1600px;"/>
 </p>
 
 <!-- Profile Introduction with Image on the Right -->
 <h1 align="left">Hi 👋, I'm Sonam Khadka</h1>
 <h3 align="left">A passionate IT student and Student Support Coordinator.</h3>
 
+<!-- Add your profile image to the right side with a round shape -->
 <p align="left">
-  <img src="https://drive.google.com/uc?export=view&id=1ue_etg0dy6N3e8cwXTKS4lhslYRhfPW_" alt="Profile Image" width="150" align="right" style="margin-left: 20px;"/>
+  <img src="https://drive.google.com/uc?export=view&id=1ue_etg0dy6N3e8cwXTKS4lhslYRhfPW_" alt="Profile Image" width="150" align="right" style="border-radius: 50%; overflow: hidden;"/>
 </p>
 
 ### 💫 About Me:
