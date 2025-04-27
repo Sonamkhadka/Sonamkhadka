@@ -17,7 +17,7 @@
 - 🌱 I’m currently learning Database Management, Advanced C#, and Networking.  
 - 👯 I’m looking to collaborate on open-source projects related to web development or database management.  
 - 💬 Ask me about Python, IT systems, student support, and photography.  
-- 📫 How to reach me: sonamkhadka2@gmail.com  
+- 📫 How to reach me: devsonam.tech@gmail.com  
 - 📄 Know about my experiences [here](https://coda.io/@sonam-khadka/resume)  
 - ⚡ Fun fact: I am a professional photographer and enjoy capturing beautiful moments.  
 
@@ -33,6 +33,14 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sonamkhadka&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sonamkhadka&theme=monokai&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sonamkhadka&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## ⏎ Projects:
+![](https://www.freetextconverter.com/)
+![](https://www.sqliteview.com/)
+![](https://critique.automateworkflows.me/)
+
+
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
