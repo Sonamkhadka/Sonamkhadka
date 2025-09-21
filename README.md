@@ -13,12 +13,10 @@
 </p>
 
 ### 💫 About Me:
-- 🔭 I’m currently working on improving my skills in C# and Database Management  
-- 🌱 I’m currently learning Database Management, Advanced C#, and Networking.  
+- 🔭 I’m currently working on improving my aws and microprocessor skills.    
 - 👯 I’m looking to collaborate on open-source projects related to web development or database management.  
 - 💬 Ask me about Python, IT systems, student support, and photography.  
-- 📫 How to reach me: devsonam.tech@gmail.com  
-- 📄 Know about my experiences [here](https://coda.io/@sonam-khadka/resume)  
+- 📫 How to reach me: devsonam.tech@gmail.com    
 - ⚡ Fun fact: I am a professional photographer and enjoy capturing beautiful moments.  
 
 ## 🌐 Connect with Me:
